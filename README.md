@@ -1,2 +1,3 @@
-# GRUPO-13
-Hola! Somos el grupo 13 de Fundamentos de Biodiseño
+# Equipo 13 - Fundamentos de Biodiseño
+# Carrera de Ingeniería Biomédica
+Universidad Peruana Cayetano Heredia
