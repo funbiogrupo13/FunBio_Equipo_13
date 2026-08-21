@@ -17,6 +17,5 @@ ODS 13: Acción por el Clima
 ## Fotografía del Equipo
 ## Integrantes del Equipo
 ## Resumen
-## ¿Quiénes somos?
 
 En este README presentamos quiénes somos como equipo, nuestras principales motivaciones y el ODS en el que enfocaremos nuestro trabajo durante el curso.
