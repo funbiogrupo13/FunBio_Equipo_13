@@ -8,3 +8,4 @@ Nuestro objetivo es aplicar los conocimientos de ingeniería en soluciones innov
 
 ## Fotografía del Equipo
 ## Integrantes del Equipo
+## Resumen
