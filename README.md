@@ -7,11 +7,9 @@ Somos el Equipo 13 del curso Fundamentos de Biodiseño, conformado por estudiant
 Nuestro objetivo es aplicar los conocimientos de ingeniería en soluciones innovadoras para resolver problemas de salud a nivel nacional y mundial
 Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS):
 
-ODS 3: Salud y Bienestar <br>
-ODS 6: Agua Limpia y Saneamiento <br>
-ODS 9: Industria, Innovación e Infraestructura <br>
-ODS 11: Ciudades y Comunidades Sostenibles <br>
-ODS 13: Acción por el Clima <br>
+-ODS 3: Salud y Bienestar <br>
+-ODS 9: Industria, Innovación e Infraestructura <br>
+-ODS 11: Ciudades y Comunidades Sostenibles <br>
 
 
 ## 📸Fotografía del Equipo
