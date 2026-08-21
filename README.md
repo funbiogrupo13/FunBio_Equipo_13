@@ -15,6 +15,12 @@ ODS 13: Acción por el Clima
 
 
 ## 📸Fotografía del Equipo
+<p align="center">
+<img width="1408" height="768" alt="Foto_Grupal" src="Imágenes/Fotogrupal.jpeg" />
+  <em>Figura 1. Fotografía del equipo 0X</em>
+</p>
+
+---
 ## 👥Integrantes del Equipo
 
 | Foto | Nombre | Rol | Intereses |
