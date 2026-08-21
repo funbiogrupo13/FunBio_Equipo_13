@@ -1,2 +1,2 @@
 # GRUPO-13
-PRUEBA
+Hola! Somos el grupo 13 de Fundamentos de Biodiseño
