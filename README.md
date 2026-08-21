@@ -8,10 +8,10 @@ Nuestro objetivo es aplicar los conocimientos de ingeniería en soluciones innov
 Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS):
 
 ODS 3: Salud y Bienestar <br>
-ODS 6: Agua Limpia y Saneamiento
-ODS 9: Industria, Innovación e Infraestructura
-ODS 11: Ciudades y Comunidades Sostenibles
-ODS 13: Acción por el Clima
+ODS 6: Agua Limpia y Saneamiento <br>
+ODS 9: Industria, Innovación e Infraestructura <br>
+ODS 11: Ciudades y Comunidades Sostenibles <br>
+ODS 13: Acción por el Clima <br>
 
 
 ## 📸Fotografía del Equipo
