@@ -1,3 +1,3 @@
 # Equipo 13 - Fundamentos de Biodiseño
-# Carrera de Ingeniería Biomédica
-Universidad Peruana Cayetano Heredia
+## Carrera de Ingeniería Biomédica
+*Universidad Peruana Cayetano Heredia*
