@@ -5,3 +5,6 @@
 Somos el Equipo 13 del curso Fundamentos de Biodiseño, conformado por estudiantes de Ingeniería Biomédica PUCP-UPCH.
 
 Nuestro objetivo es aplicar los conocimientos de ingeniería en soluciones innovadoras para resolver problemas de salud a nivel nacional y mundial
+
+## Fotografía del Equipo
+## Integrantes del Equipo
