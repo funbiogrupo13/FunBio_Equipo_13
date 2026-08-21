@@ -25,12 +25,12 @@ ODS 13: Acción por el Clima
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Livia Alvares, Carlos Felipe** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Mendizabal Soto, Alvaro Martin** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Ollero Poma, Franco Esteban** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| <img src="Imágenes/CARLOS.jpeg" width="90"/> | **Livia Alvares, Carlos Felipe** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="Imágenes/ALVARO.jpeg" width="90"/> | **Mendizabal Soto, Alvaro Martin** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="Imágenes/FRANCO.jpeg" width="90"/> | **Ollero Poma, Franco Esteban** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
 | <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Peña Zuñiga, Daneila Nicoll** | Encargado/a de documentación | Comunicación científica, redacción técnica |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Quispe Solano, Anghely Lucia** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Rojas Salazar, Fathyma Ennidh** | Programador/a - Modelador/a | Programación, análisis de datos, simulación | 
+| <img src="Imágenes/LUCIA.jpeg" width="90"/> | **Quispe Solano, Anghely Lucia** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| <img src="Imágenes/FATHYMA.jpeg" width="90"/> | **Rojas Salazar, Fathyma Ennidh** | Programador/a - Modelador/a | Programación, análisis de datos, simulación | 
 ---
 
 ## 📌Resumen
