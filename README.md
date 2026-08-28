@@ -28,7 +28,7 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 | <img src="Imágenes/FRANCO.jpeg" width="90"/> | **Ollero Poma, Franco Esteban** | Asistente de Investigación | Dominar herramientas estadísticas |
 | <img src="Imágenes/DANIELA.jpeg" width="90"/> | **Peña Zuñiga, Daniela Nicoll** | Encargada de documentación | Comunicación científica, redacción técnica |
 | <img src="Imágenes/LUCIA.jpeg" width="90"/> | **Quispe Solano, Anghely Lucia** | Programadora - Modeladora | Programación, análisis de datos, simulación |
-| <img src="Imágenes/FATHYMA.jpeg" width="90"/> | **Rojas Salazar, Fathyma Ennidh** | Diseñador | Diseño de prototipos, creatividad aplicada | 
+| <img src="Imágenes/FATHYMA.jpeg" width="90"/> | **Rojas Salazar, Fathyma Ennidh** | Diseñador | Diseño visual, gestión clínica | 
 ---
 
 ## 📌Resumen
