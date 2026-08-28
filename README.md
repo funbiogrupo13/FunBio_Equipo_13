@@ -24,11 +24,11 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
 | <img src="Imágenes/CARLOS.jpeg" width="90"/> | **Livia Alvarez, Carlos Felipe** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="Imágenes/ALVARO.jpeg" width="90"/> | **Mendizabal Soto, Alvaro Martin** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="Imágenes/FRANCO.jpeg" width="90"/> | **Ollero Poma, Franco Esteban** | Diseñador | Diseño de prototipos, creatividad aplicada |
+| <img src="Imágenes/ALVARO.jpeg" width="90"/> | **Mendizabal Soto, Alvaro Martin** | Responsable de investigación | Tecnología aplicada a la medicina |
+| <img src="Imágenes/FRANCO.jpeg" width="90"/> | **Ollero Poma, Franco Esteban** | Asistente de Investigación | Dominar herramientas estadísticas |
 | <img src="Imágenes/DANIELA.jpeg" width="90"/> | **Peña Zuñiga, Daniela Nicoll** | Encargada de documentación | Comunicación científica, redacción técnica |
 | <img src="Imágenes/LUCIA.jpeg" width="90"/> | **Quispe Solano, Anghely Lucia** | Programadora - Modeladora | Programación, análisis de datos, simulación |
-| <img src="Imágenes/FATHYMA.jpeg" width="90"/> | **Rojas Salazar, Fathyma Ennidh** | Programadora - Modeladora | Programación, análisis de datos, simulación | 
+| <img src="Imágenes/FATHYMA.jpeg" width="90"/> | **Rojas Salazar, Fathyma Ennidh** | Diseñador | Diseño de prototipos, creatividad aplicada | 
 ---
 
 ## 📌Resumen
