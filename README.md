@@ -23,12 +23,12 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="Imágenes/CARLOS.jpeg" width="90"/> | **Livia Alvarez, Carlos Felipe** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="Imágenes/ALVARO.jpeg" width="90"/> | **Mendizabal Soto, Alvaro Martin** | Responsable de investigación | Tecnología aplicada a la medicina |
-| <img src="Imágenes/FRANCO.jpeg" width="90"/> | **Ollero Poma, Franco Esteban** | Asistente de Investigación | Dominar herramientas estadísticas |
-| <img src="Imágenes/DANIELA.jpeg" width="90"/> | **Peña Zuñiga, Daniela Nicoll** | Encargada de documentación | Comunicación científica, redacción técnica |
-| <img src="Imágenes/LUCIA.jpeg" width="90"/> | **Quispe Solano, Anghely Lucia** | Programadora - Modeladora | Programación, análisis de datos, simulación |
-| <img src="Imágenes/FATHYMA.jpeg" width="90"/> | **Rojas Salazar, Fathyma Ennidh** | Diseñador | Diseño visual, gestión clínica | 
+| <img src="Imágenes/DANIELA.jpeg" width="90"/> | **Peña Zuñiga, Daniela Nicoll** | Líder del equipo | Comunicación científica, redacción técnica |
+| <img src="Imágenes/CARLOS.jpeg" width="90"/> | **Livia Alvarez, Carlos Felipe** | Programador | Desarrollo de software y algoritmos |
+| <img src="Imágenes/ALVARO.jpeg" width="90"/> | **Mendizabal Soto, Alvaro Martin** | Diseñador de Biomecánica | Modelado y simulación biomecánica |
+| <img src="Imágenes/FRANCO.jpeg" width="90"/> | **Ollero Poma, Franco Esteban** | Diseñador de Sistemas | Arquitectura de sistemas, modelado de datos |
+| <img src="Imágenes/LUCIA.jpeg" width="90"/> | **Quispe Solano, Anghely Lucia** | Investigadora Marco Médico | Investigación clínica, análisis de datos biomédicos |
+| <img src="Imágenes/FATHYMA.jpeg" width="90"/> | **Rojas Salazar, Fathyma Ennidh** | Diseñadora visual | Diseño de interfaces de usuario, comunicación visual | 
 ---
 
 ## 📌Resumen
