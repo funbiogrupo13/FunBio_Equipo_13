@@ -27,7 +27,7 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 | <img src="Imágenes/CARLOS.jpeg" width="90"/> | **Livia Alvarez, Carlos Felipe** | Programador | Desarrollo de software y algoritmos |
 | <img src="Imágenes/ALVARO.jpeg" width="90"/> | **Mendizabal Soto, Alvaro Martin** | Diseñador de Biomecánica | Modelado y simulación biomecánica |
 | <img src="Imágenes/FRANCO.jpeg" width="90"/> | **Ollero Poma, Franco Esteban** | Diseñador de Sistemas | Arquitectura de sistemas, modelado de datos |
-| <img src="Imágenes/LUCIA.jpeg" width="90"/> | **Quispe Solano, Anghely Lucia** | Investigadora Marco Médico | Investigación clínica, análisis de datos biomédicos |
+| <img src="Imágenes/LUCIA.jpeg" width="90"/> | **Quispe Solano, Anghely Lucia** | Ilustradora | Investigación clínica, ilustración digital |
 | <img src="Imágenes/FATHYMA.jpeg" width="90"/> | **Rojas Salazar, Fathyma Ennidh** | Diseñadora visual | Diseño de interfaces de usuario, comunicación visual | 
 ---
 
