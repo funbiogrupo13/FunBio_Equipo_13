@@ -25,10 +25,10 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 |------|--------|-----|-----------|
 | <img src="Imágenes/DANIELA.jpeg" width="90"/> | **Peña Zuñiga, Daniela Nicoll** | Líder del equipo | Comunicación científica, redacción técnica |
 | <img src="Imágenes/CARLOS.jpeg" width="90"/> | **Livia Alvarez, Carlos Felipe** | Programador | Desarrollo de software y algoritmos |
-| <img src="Imágenes/ALVARO.jpeg" width="90"/> | **Mendizabal Soto, Alvaro Martin** | Diseñador de Biomecánica | Modelado y simulación biomecánica |
-| <img src="Imágenes/FRANCO.jpeg" width="90"/> | **Ollero Poma, Franco Esteban** | Diseñador de Sistemas | Arquitectura de sistemas, modelado de datos |
+| <img src="Imágenes/ALVARO.jpeg" width="90"/> | **Mendizabal Soto, Alvaro Martin** | Diseñador de Biomecánica | Simulación biomecánica, comunicación |
+| <img src="Imágenes/FRANCO.jpeg" width="90"/> | **Ollero Poma, Franco Esteban** | Diseñador de Sistemas | Arquitectura de sistemas |
 | <img src="Imágenes/LUCIA.jpeg" width="90"/> | **Quispe Solano, Anghely Lucia** | Ilustradora | Investigación clínica, ilustración digital |
-
+| <img src="Imágenes/Fathyma.jpeg" width="90"/> | **Rojas Salazar, Fathyma Ennidh** | Diseñadora 3D | Modelado CAD, interfaz visual |
 ---
 
 ## 📌Resumen
