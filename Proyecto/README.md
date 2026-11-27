@@ -1,5 +1,5 @@
-# GripFlex
-**Descripción General**: GripFlex es una órtesis electromagnética portátil diseñada para asistir el agarre palmar de la mano derecha sobre la empuñadura de un andador mediante un sistema controlado de actuación magnética.
+# Magnyto
+**Descripción General**: Magnyto es una órtesis electromagnética portátil diseñada para asistir el agarre palmar de la mano derecha sobre la empuñadura de un andador mediante un sistema controlado de actuación magnética.
 
 **Estructura:**
 El contenido técnico del proyecto está organizado en las siguientes carpetas principales:
