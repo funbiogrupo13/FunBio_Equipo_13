@@ -28,7 +28,7 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 | <img src="Imágenes/ALVARO.jpeg" width="90"/> | **Mendizabal Soto, Alvaro Martin** | Diseñador de Biomecánica | Simulación biomecánica, comunicación |
 | <img src="Imágenes/FRANCO.jpeg" width="90"/> | **Ollero Poma, Franco Esteban** | Diseñador de Sistemas | Arquitectura de sistemas |
 | <img src="Imágenes/LUCIA.jpeg" width="90"/> | **Quispe Solano, Anghely Lucia** | Ilustradora | Investigación clínica, ilustración digital |
-| <img src="Imágenes/Fathyma.jpeg" width="90"/> | **Rojas Salazar, Fathyma Ennidh** | Diseñadora 3D | Modelado CAD, interfaz visual |
+| <img src="Imágenes/Fathyma.jpg" width="90"/> | **Rojas Salazar, Fathyma Ennidh** | Diseñadora 3D | Modelado CAD, interfaz visual |
 ---
 
 ## 📌Resumen
